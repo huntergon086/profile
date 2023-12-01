@@ -21,7 +21,7 @@ const Footer = () => {
         </div>
       </div>
       <div className="footer__copyright">
-        <small>Created by ruangnode &copy; All Rights Reserved</small>
+        <small>Developed By tjair &copy; 2023 </small>
       </div>
     </footer>
   );

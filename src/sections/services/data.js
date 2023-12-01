@@ -1,6 +1,6 @@
 import { GiWavyChains } from 'react-icons/gi';
 import { FiMonitor } from 'react-icons/fi';
-import { BiSolidFileDoc } from 'react-icons/bi';
+import { VscListTree } from 'react-icons/vsc';
 import { SiRelay } from 'react-icons/si';
 
 const data = [
@@ -18,9 +18,9 @@ const data = [
   },
   {
     id: 3,
-    icon: <BiSolidFileDoc />,
-    title: 'Docs Guide',
-    desc: 'Documents setup for community',
+    icon: <VscListTree />,
+    title: 'Public Endpoint',
+    desc: 'tjair offers public tools for easy access, including RPC, gRPC, and API services.',
   },
   {
     id: 4,

@@ -1,21 +1,21 @@
-import Image1 from '../../assets/project1.jpg';
-import Image2 from '../../assets/project2.png';
-import Image3 from '../../assets/project3.jpg';
-import Image4 from '../../assets/project4.jpg';
-import Image5 from '../../assets/project5.jpg';
-import Image6 from '../../assets/project6.jpg';
-import Image7 from '../../assets/project7.jpg';
-import Image8 from '../../assets/project8.png';
-import Image9 from '../../assets/project9.jpg';
-import Image10 from '../../assets/project10.png';
-import Image11 from '../../assets/project11.png';
-import Image12 from '../../assets/project12.png';
-import Image13 from '../../assets/project13.jpg';
-import Image14 from '../../assets/project14.jpg';
-import Image15 from '../../assets/project15.jpg';
-import Image16 from '../../assets/project16.jpg';
-import Image17 from '../../assets/project17.jpg';
-import Image18 from '../../assets/project18.jpg';
+import Image1 from '../../assets/project5.png';
+//import Image2 from '../../assets/project2.png';
+//import Image3 from '../../assets/project3.jpg';
+//import Image4 from '../../assets/project4.jpg';
+import Image5 from '../../assets/project1.png';
+//import Image6 from '../../assets/project6.jpg';
+//import Image7 from '../../assets/project7.jpg';
+//import Image8 from '../../assets/project8.png';
+//import Image9 from '../../assets/project9.jpg';
+//import Image10 from '../../assets/project10.png';
+//import Image11 from '../../assets/project11.png';
+//import Image12 from '../../assets/project12.png';
+//import Image13 from '../../assets/project13.jpg';
+//import Image14 from '../../assets/project14.jpg';
+//import Image15 from '../../assets/project15.jpg';
+//import Image16 from '../../assets/project16.jpg';
+//import Image17 from '../../assets/project17.jpg';
+//import Image18 from '../../assets/project18.jpg';
 
 const data = [
   // Mainnet data start
@@ -27,12 +27,12 @@ const data = [
     id: 1.1,
     category: 'Mainnet',
     image: Image5,
-    title: 'Covalent',
-    total: '35000 $CQT',
-    monit: 'https://health.ruangnode.com/status/covalent',
-    stake: 'https://www.covalenthq.com/staking/#/',
+    title: 'Planq Network',
+    total: '125.069 $PLQ',
+    monit: 'https://explorer.planq.network/',
+    stake: 'https://explorer.planq.network/accounts/plq1vn3y8jc6rvglsu2j5ezy935y2xuu2zjhnz3yl4',
   },
-  {
+  /*{
     id: 1.2,
     category: 'Mainnet',
     image: Image7,
@@ -58,17 +58,17 @@ const data = [
     total: '650 $PION',
     monit: '',
     stake: '',
-  },
+  },*/
   {
     id: 2.1,
     category: 'Testnet',
     image: Image1,
-    title: 'Taiko',
+    title: 'dymension Rollapp',
     total: '',
     monit: '',
     stake: '',
   },
-  {
+ /*{
     id: 2.2,
     category: 'Testnet',
     image: Image2,
@@ -193,7 +193,7 @@ const data = [
     total: '',
     monit: '',
     stake: 'https://explorer.indonode.net/mantra-testnet/staking/mantravaloper1n2x4xvwmr8zn6r39yw98hq235ktph57dhyhfz3',
-  },
+  },*/
 
   // Testnet data end
 

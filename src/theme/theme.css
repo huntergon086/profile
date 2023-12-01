@@ -49,7 +49,8 @@
 }
 
 .theme__primary-colors .color-1 {
-  background: hsl(270, 70%, 46%);
+  /*background: hsl(270, 70%, 46%);*/
+  background: hsl(194, 29%, 75%);
 }
 
 .theme__primary-colors .color-2 {

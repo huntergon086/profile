@@ -1,8 +1,8 @@
-import Avatar1 from '../../assets/project1.jpg';
-import Avatar2 from '../../assets/project2.png';
-import Avatar3 from '../../assets/project3.jpg';
+import Avatar1 from '../../assets/project1.png';
+import Avatar2 from '../../assets/project5.png';
+/*import Avatar3 from '../../assets/project3.jpg';
 import Avatar4 from '../../assets/project4.jpg';
-import Avatar5 from '../../assets/project5.jpg';
+import Avatar5 from '../../assets/project5.png';
 import Avatar6 from '../../assets/project6.jpg';
 import Avatar7 from '../../assets/project7.jpg';
 import Avatar8 from '../../assets/project8.png';
@@ -16,22 +16,22 @@ import Avatar15 from '../../assets/project15.jpg';
 import Avatar16 from '../../assets/project16.jpg';
 import Avatar17 from '../../assets/project17.jpg';
 import Avatar18 from '../../assets/project18.jpg';
-
+*/
 const data = [
   {
     id: 1,
-    quote: '🟢 Testnet is live',
+    quote: '🟢 Mainnet is live',
     avatar: Avatar1,
-    name: 'Taiko',
+    name: 'Planq Network',
     status: 'Insentive Program',
   },
   {
     id: 2,
     quote: '🟢 Testnet is live',
     avatar: Avatar2,
-    name: 'Wormholes',
+    name: 'Dymension Rollapp',
     status: 'Insentive Program',
-  },
+  },/*
   {
     id: 3,
     quote: '🟢 Mainnet is live',
@@ -143,7 +143,7 @@ const data = [
     avatar: Avatar18,
     name: 'Mantra Chain',
     status: 'Testnet Program',
-  },
+  },*/
 ];
 
 export default data;
